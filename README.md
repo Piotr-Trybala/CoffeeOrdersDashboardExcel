@@ -9,11 +9,11 @@ The dataset is derived from different Github user and intended for public use.<b
 
 <p align="center">
 Autofiting columns becasuse why not: <br/>
-<img src="https://imgur.com/a/WbLlaxm" alt="Autofit"/>
+<img src="https://i.imgur.com/GISbS8w.png" alt="Autofit"/>
 <br />
 <br />
 Gathering data by XLOOKUP:  <br/>
-<img src="https://imgur.com/a/mT3gnk6" alt="XLOOKUP"/>
+<img src="https://i.imgur.com/FPsfjMy.png" alt="XLOOKUP"/>
 <br />
 <br />
 Or by INDEX: <br/>
