@@ -17,7 +17,7 @@ Gathering data by XLOOKUP:  <br/>
 <br />
 <br />
 Or by INDEX: <br/>
-<img src="https://i.imgur.com/CfB2au0.png" height="200%" width="200%" alt="INDEX"/>
+<img src="https://i.imgur.com/CfB2au0.png" height="300%" width="300%" alt="INDEX"/>
 <br />
 <br />
 Confirm your selection:  <br/>
