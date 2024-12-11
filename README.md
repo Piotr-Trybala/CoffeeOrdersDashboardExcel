@@ -28,7 +28,7 @@ Creating interactive dashboard with customized Timeline layout and filters :  <b
 <img src="https://i.imgur.com/koLnWEj.png" alt="Dashboard"/>
 <br />
 <br />
-Dashboard after aplying filters:  <br/>
+Dashboard after applying filters:  <br/>
 <img src="https://i.imgur.com/oeVXwlY.png" alt="Filtered Dashboard"/>
 <br />
 <br />
