@@ -20,28 +20,16 @@ Or by INDEX: <br/>
 <img src="https://i.imgur.com/CfB2au0.png" height="300%" width="300%" alt="INDEX"/>
 <br />
 <br />
-Confirm your selection:  <br/>
+Creating pivot tables for quick analysis and as a source for charts:  <br/>
 <img src="https://i.imgur.com/aGcUcLP.png" alt="Pivot Tables"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating interactive dashboard with customized Timeline layout and filters :  <br/>
+<img src="https://i.imgur.com/koLnWEj.png" alt="Dashboard"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Dashboard after aplying filters:  <br/>
+<img src="https://i.imgur.com/oeVXwlY.png" alt="Filtered Dashboard"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
